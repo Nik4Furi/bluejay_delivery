@@ -1,24 +1,12 @@
 # <h1 id="bluejay_delivery_asses"> bluejay_delivery 🚀 </h1>
-### Analyzing and perform queries on data
-This is an assessment from **bluejay_delivery**. In that assessment, I have to analyze the data and perform the quries.
+### Analyzing and performing queries on data
+This is an assessment from **bluejay_delivery**. In that assessment, I have to analyze the data and perform the queries.
 
 ## Indexing the contents
-#### <a href="#badges" >Badges</a>
 #### <a href="#demo" >Demo</a>
 #### <a href="#stack" >Tech Stack</a>
 #### <a href="#runLocally" >Run Locally</a>
-#### <a href="#features" >Features</a>
-
-## <h2 id="badges" >Badges </h2>
-
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Nik4Furi/bluejay_delivery_asses?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Nik4Furi/bluejay_delivery_asses?style=social)
-
-![GitHub top language](https://img.shields.io/github/languages/top/Nik4Furi/bluejay_delivery_asses)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nik4Furi/bluejay_delivery_asses?style=flat-square) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Nik4Furi/bluejay_delivery_asses) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Nik4Furi/bluejay_delivery_asses)   ![GitHub last commit](https://img.shields.io/github/last-commit/Nik4Furi/bluejay_delivery_asses)
-
-
-<a href="#bluejay_delivery_asses">Go Home </a>
+#### <a href="#feat" >Features</a>
 
 
 ## <h2 id="demo" >Demo </h2>
@@ -54,15 +42,15 @@ Go to the project directory
   cd bluejay_delivery_asses
 ```
 
-And start ot read the file, will help to perform operations on data-sets
+And start to read the file, will help to perform operations on data sets
 
 
 <a href="#bluejay_delivery_asses">Go Home </a>
 
 
-## <h2 id="features">Features </h2>
+## <h2 id="feat">Features </h2>
 
-- Perform query on the data-set, get the related o/p
+- Perform queries on the data set, get the related o/p
 
 
 <a href="#bluejay_delivery_asses">Go Home </a>
