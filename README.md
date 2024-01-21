@@ -3,10 +3,11 @@
 This is an assessment from **bluejay_delivery**. In that assessment, I have to analyze the data and perform the quries.
 
 ## Indexing the contents
-#### <a href="#badges" >Badges</a></p>
-#### <a href="#stack" >Tech Stack</a></p>
-#### <a href="#runLocally" >Run Locally</a></p>
-#### <a href="#features" >Features</a></p>
+#### <a href="#badges" >Badges</a>
+#### <a href="#demo" >Demo</a>
+#### <a href="#stack" >Tech Stack</a>
+#### <a href="#runLocally" >Run Locally</a>
+#### <a href="#features" >Features</a>
 
 ## <h2 id="badges" >Badges </h2>
 
@@ -19,6 +20,16 @@ This is an assessment from **bluejay_delivery**. In that assessment, I have to a
 
 <a href="#bluejay_delivery_asses">Go Home </a>
 
+
+## <h2 id="demo" >Demo </h2>
+
+<p text-align=left>
+  <img src="https://github.com/Nik4Furi/bluejay_delivery/assets/91304976/3922d3f2-c1f9-4ee4-9cf2-921b4b748ead" width="500" height="" alt="bluejay_delivery"/>
+    
+ </p>
+
+
+<a href="#bluejay_delivery_asses">Go Home </a>
 
 ## <h2 id="stack" >Tech Stack </h2>
 
